@@ -8,7 +8,7 @@
 
 2. Move to the directory and install gem dependencies
     ```bash
-    cd angular2-token-example
+    cd grind
     bundle install
     ```
 
