@@ -3,7 +3,7 @@
 ## Installation
 1. Clone this repository with
     ```bash
-    git clone https://github.com/dnkrsl/grind.git
+    git clone https://github.com/Slashdelta/AngularRailsTemplate.git
     ```
 
 2. Move to the directory and install gem dependencies
